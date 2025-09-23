@@ -19,10 +19,10 @@ I created an **Excel Sales Dashboard** to analyze product sales from **2023–20
 
 ---
 ## 🛠 Skills Used
-- 📐 Excel Functions: SUM, AVERAGE, VLOOKUP
-- 📊 PivotTables & PivotCharts
-- 🎯 KPI Cards & Slicers
-- 🎨 Dashboard Formatting
+- Excel Functions: SUM, AVERAGE, VLOOKUP
+- PivotTables & PivotCharts
+- KPI Cards & Slicers
+- Dashboard Formatting
 ---
 
 ## 🔑 Key Insights
